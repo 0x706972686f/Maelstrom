@@ -1,0 +1,12 @@
+oletools
+pefile
+python-magic
+re
+python-docx
+binascii
+docx
+exiftool
+pyminizip
+requests
+selenium
+chromecontroller
